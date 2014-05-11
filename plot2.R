@@ -1,5 +1,5 @@
 #----- Cleans up and loads the data------#
-source('CleanData.R')
+Source('CleanData.R')
 
 #----- plot ------ #
 
